@@ -17,9 +17,6 @@
 
 ---
 
-
-
-
 ### Connect with me:
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rndyygh_/#gh-dark-mode-only)
 
