@@ -21,6 +21,5 @@
 
 
 ### Connect with me:
-![website](./img/instagram-light.svg)](https://www.instagram.com/rndyygh_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rndyygh_/#gh-dark-mode-only)
 
